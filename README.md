@@ -19,7 +19,7 @@ The goal of this project is to create a daily planner/scheduler that a person ca
 ![Work Day Scheduler](./Assets/05-third-party-apis-homework-demo.gif)
 
 ## Deployed URL
-[Work Day Scheduler]()
+[Work Day Scheduler](https://nhastings1.github.io/Nick-s-Daily-Scheduler/)
 
 ## Code Languages Used
 * HTML
