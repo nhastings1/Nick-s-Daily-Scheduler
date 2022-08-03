@@ -114,6 +114,7 @@ $(".saveBtn").on("click", function(event) {
     //saving the correct information into array
     var saveIndex = $(this).siblings(".description").children().attr("id");
     dayPlanner[saveIndex].dataPlanner = $(this).siblings(".description").children().val();
+    localStorage.clear();
     savePlannerData();
     displayPlannerData();
 })
